@@ -8,5 +8,8 @@
         "mGBA": "https://github.com/mgba-emu/mgba/releases/download/0.10.3/mGBA-0.10.3-win64.7z",
         "SNES9x": "https://dl.emulator-zone.com/download.php/emulators/snes/snes9x/snes9x-1.62.3-win32-x64.zip",
         "Project64": "https://www.pj64-emu.com/download/project64-3-0-1-installer"
-  }
+  }, "SLLT-SHA":
+  "1e3bf18dd332f7cf204864e54419c10747fc08744bc4b692fe91ea00b81212165f18125605c429933ac13dd22dfe30bbc1fe1f77b1a85303a6d1b80909a47eaa", "CDLT-SHA":
+  "cbac27b000631b292e17fcb91345ee131dafd659479c87868d7e2e4eb528b3cdfb31be0f846cf291a532fb651ec2d03f57957139df9121950bfacb0b9e91afc0", "VELT-SHA":
+  "1fa82ce8ce2cc92ad7d2e6d5955f711bf638ac34ccc5831b5295815acad102adc2688b48e7a86fe39c37f4519717df72749b1a61361a6d1bece31c0fe26b467e"
 }

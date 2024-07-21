@@ -1,0 +1,12 @@
+{
+  "shopLinks": {
+        "MelonDS": "https://melonds.kuribo64.net/downloads/melonDS_0.9.5_win_x64.zip",
+        "Dolphin": "https://dl.dolphin-emu.org/releases/2407/dolphin-2407-x64.7z",
+        "CEmu": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/527719753/7a932981-c259-4899-aab0-76e8c64134aa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240721%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240721T091802Z&X-Amz-Expires=300&X-Amz-Signature=a21334b0ed0a8ad013bca4a553961e71d405bf48b7d070f24156ba536032fc79&X-Amz-SignedHeaders=host&actor_id=110254845&key_id=0&repo_id=527719753&response-content-disposition=attachment%3B%20filename%3Dcemu-2.0-windows-x64.zip&response-content-type=application%2Foctet-stream",
+        "Ryujinx": "https://github.com/Ryujinx/release-channel-master/releases/download/1.1.1357/ryujinx-1.1.1357-win_x64.zip",
+        "Citra": "https://github.com/PabloMK7/citra/releases/download/r4f174f1/citra-windows-msvc-20240615-4f174f1.zip",
+        "mGBA": "https://github.com/mgba-emu/mgba/releases/download/0.10.3/mGBA-0.10.3-win64.7z",
+        "SNES9x": "https://dl.emulator-zone.com/download.php/emulators/snes/snes9x/snes9x-1.62.3-win32-x64.zip",
+        "Project64": "https://www.pj64-emu.com/download/project64-3-0-1-installer"
+  }
+}
